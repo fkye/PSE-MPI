@@ -1,8 +1,7 @@
-PSE-MPI
+Detecting MPI Usage Anomalies via Partial Program Symbolic Execution
 ================
 
-PSE-MPI is an MPI usage anomaly detection tool that employs partial symbolic execution.
-It is built on top of the KLEE symbolic virtual machine.
+This repository is the official implementation of [Detecting MPI Usage Anomalies via Partial Program Symbolic Execution](https://dl.acm.org/doi/10.1109/SC.2018.00066).
 
 ## Building
 
